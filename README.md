@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li><b>Pembaruan OTA (Over-The-Air):</b> Update firmware langsung dari browser tanpa kabel USB.</li>
-  <li><b>Keamanan MAC Address:</b> Firmware terkunci dan hanya dapat digunakan pada satu MAC Address ESP32 tertentu.</li>
+  
 </ul>
 
 <hr>
@@ -95,7 +95,7 @@
   <li>Buka WiFi di HP/Laptop, cari SSID: <b>SCANNER MOTOR HONDA</b>.</li>
   <li>Hubungkan (Tidak ada password WiFi, menggunakan fitur Captive Portal).</li>
   <li>Jika halaman login tidak muncul otomatis, buka browser dan ketik: <b>http://8.8.8.8</b></li>
-  <li>Masukkan Password sistem: <code>88888888</code></li>
+  <li>Masukkan Password sistem: <code></code></li>
   <li>Anda akan masuk ke Dashboard Live Data untuk memantau sensor secara real-time.</li>
 </ol>
 
