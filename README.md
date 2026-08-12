@@ -146,25 +146,7 @@
       <sub><b>Keterangan Gambar 6</b></sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="LINK_GAMBAR_7" width="300" alt="Gambar 7" /><br>
-      <sub><b>Keterangan Gambar 7</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="LINK_GAMBAR_8" width="300" alt="Gambar 8" /><br>
-      <sub><b>Keterangan Gambar 8</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="LINK_GAMBAR_9" width="300" alt="Gambar 9" /><br>
-      <sub><b>Keterangan Gambar 9</b></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="LINK_GAMBAR_10" width="300" alt="Gambar 10" /><br>
-      <sub><b>Keterangan Gambar 10</b></sub>
-    </td>
+
   </tr>
 </table>
 
