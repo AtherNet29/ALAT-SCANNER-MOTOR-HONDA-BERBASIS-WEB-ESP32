@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li><b>Pembaruan OTA (Over-The-Air):</b> Update firmware langsung dari browser tanpa kabel USB.</li>
-  <li><b>Keamanan MAC Address:</b> Firmware terkunci dan hanya dapat digunakan pada satu MAC Address ESP32 tertentu.</li>
+
 </ul>
 
 <hr>
@@ -95,7 +95,7 @@
   <li>Buka WiFi di HP/Laptop, cari SSID: <b>SCANNER MOTOR HONDA</b>.</li>
   <li>Hubungkan (Tidak ada password WiFi, menggunakan fitur Captive Portal).</li>
   <li>Jika halaman login tidak muncul otomatis, buka browser dan ketik: <b>http://8.8.8.8</b></li>
-  <li>Masukkan Password sistem: <code>88888888</code></li>
+  <li>Masukkan Password sistem: </li>
   <li>Anda akan masuk ke Dashboard Live Data untuk memantau sensor secara real-time.</li>
 </ol>
 
@@ -113,17 +113,6 @@
 
 <hr>
 
-<h2>⚙️ Konfigurasi & Kustomisasi</h2>
-<div style="background-color: #e6f3ff; padding: 15px; border-left: 5px solid #0055aa;">
-  <b>💡 Jika Anda ingin mem-flash firmware ini ke ESP32 lain (bukan unit awal), Anda WAJIB mengubah variabel berikut di dalam kode:</b>
-  <ol>
-    <li><b>Kunci MAC Address:</b> Ubah <code>String allowedMAC = "8C:94:DF:AA:4A:1C";</code> menjadi MAC Address dari ESP32 baru Anda.</li>
-    <li><b>Alamat LCD:</b> Jika LCD Anda berbeda, ubah <code>LiquidCrystal_I2C lcd(0x27, 16, 2);</code> (Biasanya 0x27 atau 0x3F).</li>
-  </ol>
-</div>
-
-<hr>
-
 <h2>📸 Preview Tampilan</h2>
 <p><b>Antarmuka Web Dashboard:</b></p>
 <p align="center">
@@ -133,7 +122,7 @@
 <hr>
 
 <div align="center">
-  <h2>💎 Dapatkan Alat Ini</h2>
+  <h2>💎 Dapatkan FIRMWARE Alat Ini</h2>
   <p>Hubungi saya atau lakukan pemesanan langsung melalui Telegram untuk mendapatkan firmware full version dan bantuan teknis.</p>
   <h3>🛒 Harga: RP 50.000</h3>
   <br>
@@ -145,12 +134,6 @@
 </div>
 
 <hr>
-
-<div style="background-color: #ffcccc; padding: 15px; border-left: 5px solid #ff0000;">
-  <h3>⚖️ Disclaimer</h3>
-  <b>PERINGATAN:</b> Alat ini dibuat murni untuk tujuan <i>Diagnostik Otomotif</i> dan <i>Pendidikan</i>. Penggunaan alat ini untuk keperluan modifikasi ilegal atau tindakan yang melanggar hukum daerah setempat <b>BUKAN</b> merupakan tanggung jawab Pengembang.
-</div>
-
 <div align="center">
   <br>
   <sub>Dibuat dengan ❤️ untuk Sepeda Motor Honda</sub>
