@@ -118,35 +118,33 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_1" width="300" alt="Gambar 1" /><br>
-      <sub><b>Keterangan Gambar 1</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/Gambar%201.jpg" width="300" alt="Gambar 1" /><br>
+      <sub><b>Produk Scanner</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_2" width="300" alt="Gambar 2" /><br>
-      <sub><b>Keterangan Gambar 2</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/Gambar%202.jpg" width="300" alt="Gambar 2" /><br>
+      <sub><b>Detail Modul</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_3" width="300" alt="Gambar 3" /><br>
-      <sub><b>Keterangan Gambar 3</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/Gambar%203.jpg" width="300" alt="Gambar 3" /><br>
+      <sub><b>Koneksi K-Line</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_4" width="300" alt="Gambar 4" /><br>
-      <sub><b>Keterangan Gambar 4</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/Halaman%20Depan.jpg" width="300" alt="Halaman Depan" /><br>
+      <sub><b>Halaman Login Web</b></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_5" width="300" alt="Gambar 5" /><br>
-      <sub><b>Keterangan Gambar 5</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/Halaman%20Dashboard.jpg" width="300" alt="Halaman Dashboard" /><br>
+      <sub><b>Web Dashboard Live Data</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="LINK_GAMBAR_6" width="300" alt="Gambar 6" /><br>
-      <sub><b>Keterangan Gambar 6</b></sub>
+      <img src="https://raw.githubusercontent.com/AtherNet29/ALAT-SCANNER-MOTOR-HONDA-BERBASIS-WEB-ESP32/4e7e529e95611e013db070a3b28853352a299880/schematic.jpg" width="300" alt="Schematic" /><br>
+      <sub><b>Diagram Skematik</b></sub>
     </td>
-  </tr>
-
   </tr>
 </table>
 
@@ -154,7 +152,7 @@
 
 <div align="center">
   <h2>💎 Dapatkan FIRMWARE Alat Ini</h2>
-  <p>Hubungi saya atau lakukan pemesanan langsung melalui Telegram untuk mendapatkan firmware full version dan bantuan teknis.</p>
+  <p>Hubungi saya atau lakukan pemesanan langsung melalui Telegram untuk mendapatkan firmware full version dan bantuan teknis. Setiap pembelian mendapatkan 1 file BIN yang tidak bisa dapat di gandakan dan Gratis Update firmware 2 x</p>
   <h3>🛒 Harga: RP 50.000</h3>
   <br>
   <a href="https://t.me/+6283141852690">
