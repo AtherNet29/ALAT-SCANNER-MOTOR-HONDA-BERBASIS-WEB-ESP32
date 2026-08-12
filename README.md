@@ -113,11 +113,60 @@
 
 <hr>
 
-<h2>📸 Preview Tampilan</h2>
-<p><b>Antarmuka Web Dashboard:</b></p>
-<p align="center">
-  <img src="LINK_GAMBAR_ANDA_DISINI" width="400" alt="Dashboard Scanner Honda" />
-</p>
+<h2>📸 Pratinjau Tampilan (Gallery)</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_1" width="300" alt="Gambar 1" /><br>
+      <sub><b>Keterangan Gambar 1</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_2" width="300" alt="Gambar 2" /><br>
+      <sub><b>Keterangan Gambar 2</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_3" width="300" alt="Gambar 3" /><br>
+      <sub><b>Keterangan Gambar 3</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_4" width="300" alt="Gambar 4" /><br>
+      <sub><b>Keterangan Gambar 4</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_5" width="300" alt="Gambar 5" /><br>
+      <sub><b>Keterangan Gambar 5</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_6" width="300" alt="Gambar 6" /><br>
+      <sub><b>Keterangan Gambar 6</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_7" width="300" alt="Gambar 7" /><br>
+      <sub><b>Keterangan Gambar 7</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_8" width="300" alt="Gambar 8" /><br>
+      <sub><b>Keterangan Gambar 8</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_9" width="300" alt="Gambar 9" /><br>
+      <sub><b>Keterangan Gambar 9</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="LINK_GAMBAR_10" width="300" alt="Gambar 10" /><br>
+      <sub><b>Keterangan Gambar 10</b></sub>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
