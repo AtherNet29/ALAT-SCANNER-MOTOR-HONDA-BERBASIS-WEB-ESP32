@@ -27,7 +27,7 @@
     </ul>
   </li>
   <li><b>Pembaruan OTA (Over-The-Air):</b> Update firmware langsung dari browser tanpa kabel USB.</li>
-  
+  <li><b>Keamanan MAC Address:</b> Firmware terkunci dan hanya dapat digunakan pada satu MAC Address ESP32 tertentu.</li>
 </ul>
 
 <hr>
@@ -95,7 +95,7 @@
   <li>Buka WiFi di HP/Laptop, cari SSID: <b>SCANNER MOTOR HONDA</b>.</li>
   <li>Hubungkan (Tidak ada password WiFi, menggunakan fitur Captive Portal).</li>
   <li>Jika halaman login tidak muncul otomatis, buka browser dan ketik: <b>http://8.8.8.8</b></li>
-  <li>Masukkan Password sistem: <code></code></li>
+  <li>Masukkan Password sistem: <code>88888888</code></li>
   <li>Anda akan masuk ke Dashboard Live Data untuk memantau sensor secara real-time.</li>
 </ol>
 
@@ -122,7 +122,29 @@
   </ol>
 </div>
 
-<br>
+<hr>
+
+<h2>📸 Preview Tampilan</h2>
+<p><b>Antarmuka Web Dashboard:</b></p>
+<p align="center">
+  <img src="LINK_GAMBAR_ANDA_DISINI" width="400" alt="Dashboard Scanner Honda" />
+</p>
+
+<hr>
+
+<div align="center">
+  <h2>💎 Dapatkan Alat Ini</h2>
+  <p>Hubungi saya atau lakukan pemesanan langsung melalui Telegram untuk mendapatkan firmware full version dan bantuan teknis.</p>
+  <h3>🛒 Harga: RP 50.000</h3>
+  <br>
+  <a href="https://t.me/+6283141852690">
+  <img src="https://img.shields.io/badge/Buy_Now-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <br><br>
+  <i>Klik tombol di atas untuk chat langsung dengan saya di Telegram.</i>
+</div>
+
+<hr>
 
 <div style="background-color: #ffcccc; padding: 15px; border-left: 5px solid #ff0000;">
   <h3>⚖️ Disclaimer</h3>
